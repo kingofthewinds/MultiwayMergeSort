@@ -20,10 +20,7 @@ as we can see, there is a minimum at 1mb !
 (the page size being at 4 kilobytes)
 
 #Building and Execution
-To build, use the makefile with the following commend : make mws 
-Then to execute, you need to supply three parameters in the following order : 
-1. Item 1
-2. Item 2
-3. Item 3
+1. To build, use the makefile with the following commend : make mws 
+2. Then to execute, you need to supply three parameters in the following order : 
    * Item 3a
    * Item 3b
