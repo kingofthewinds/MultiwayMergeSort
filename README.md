@@ -21,4 +21,5 @@ as we can see, there is a minimum at 1mb !
 
 #Building and Execution
 To build, use the makefile with the following commend : make mws 
+
 Then to execute, you need to supply three parameters in the following order : 
