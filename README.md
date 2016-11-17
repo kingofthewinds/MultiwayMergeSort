@@ -20,7 +20,7 @@ as we can see, there is a minimum at 1mb !
 (the page size being at 4 kilobytes)
 
 #Building and Execution
-1. To build, use the makefile with the following commend : make mws 
+1. To build, use the makefile with the following commend : <br/> make mws 
 2. Then to execute, you need to supply three parameters in the following order : ./mws [fileName] [m] [d]
    * name of the file to merge 
    * the size of the buffer to use (in number of ints)
