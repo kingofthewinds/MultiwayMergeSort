@@ -22,9 +22,8 @@ as we can see, there is a minimum at 1mb !
 #Building and Execution
 To build, use the makefile with the following commend : make mws 
 Then to execute, you need to supply three parameters in the following order : 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
