@@ -65,12 +65,5 @@ int main(int argc, char *argv[])
 		resNumber ++;
 	}
 	
-	
-	int* buffer = getMappedFile( blocks[0].fd , 0 , blocks[0].length ); 
-	for (int j = 0 ; j < blocks[0].length ; j += 1000000)
-	{
-	 	cout << *buffer << endl;
-	 	buffer += 1000000;
-	}
 	return 0;
 }
