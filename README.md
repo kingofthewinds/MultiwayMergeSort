@@ -25,7 +25,7 @@ The follwoing measures have been done using a  file of size 4Gb filled with rand
 
 
 | m(mb) | d  | execution time(sec) |
-| ----- | -- | ------------------- |
+| ----- | - | ------------------- |
 | 40    | 11 | 207                 |
 | 400   | 6  | 160                 |
 | 4000  | 6  | 111                 |
