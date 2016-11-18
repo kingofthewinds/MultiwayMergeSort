@@ -12,7 +12,7 @@ SSD drive so all the disk seek time etc. that apply to rotating disks don't appl
 | --------------  | ---------------------------- |
 | 0.5             | 4.130                        |
 | 1               | 3.976                        |
-| 10              |  4.153                       |
+| 10              | 4.153                        |
 | 100             | 4.104                        |
 | 400             | 4.270                        |
 
@@ -22,11 +22,11 @@ as we can see, there is a minimum at 1mb !
 #Multiway Merge Sort Performance : 
 
 The follwoing measures have been done using a  file of size 4Gb filled with random integers :  
-|  m(mb)  |  d  |  execution time(sec) |
+|  m(mb)  | d   |  execution time(sec) |
 | ------- | --- | -------------------- |
-| 40      | 11  |            207       |
-| 400     | 6   |            160       |
-| 4000    | 6   |            111       |
+| 40      | 11  | 207                  |
+| 400     | 6   | 160                  |
+| 4000    | 6   | 111                  |
 
 
 #Building and Execution
