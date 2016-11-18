@@ -22,11 +22,11 @@ as we can see, there is a minimum at 1mb !
 #Multiway Merge Sort Performance : 
 
 The follwoing measures have been done using a  file of size 4Gb filled with random integers :  
-|  m(mb)  | d   |  execution time(sec) |
-| ------- | --- | -------------------- |
-| 40      | 11  | 207                  |
-| 400     | 6   | 160                  |
-| 4000    | 6   | 111                  |
+| m(mb) | d  | execution time(sec) |
+| ----- | -- | ------------------- |
+| 40    | 11 | 207                 |
+| 400   | 6  | 160                 |
+| 4000  | 6  | 111                 |
 
 
 #Building and Execution
