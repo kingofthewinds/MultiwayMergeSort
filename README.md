@@ -30,6 +30,7 @@ The follwoing measures have been done using a  file of size 4Gb filled with rand
 | 400   | 6   | 160                 |
 | 4000  | 6   | 111                 |
 
+note that the sorting algorithm is intelligent enough so if the file is already sorted, it's take 2 seconds to realise that and finishes.
 
 #Building and Execution
 1. To build, use the makefile with the following commend : <br/>                 make mws 
